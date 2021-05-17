@@ -16,8 +16,6 @@ https://drive.google.com/file/d/1lV2snWVvaTmx7jF53HUlPk-MzhayWpON/view?usp=shari
 
 From Google Collab: https://colab.research.google.com/drive/1bn9Kn4dtmvvJOLh_GDTPxaUKkGcFf_3Z?usp=sharing
 
-Or Github.
-
 ## About changes
 
 After perceiving some problems and receiving new ideas from the representation. My project has some updates:
