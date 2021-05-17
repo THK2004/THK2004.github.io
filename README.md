@@ -32,4 +32,4 @@ After perceiving some problems and receiving new ideas from the representation. 
 
 ## Known problems
 
-Can't pickle a dictionary of multiple keras models.
+Can't pickle a dictionary/list/array of multiple keras models.
