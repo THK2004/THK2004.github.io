@@ -32,6 +32,4 @@ After perceiving some problems and receiving new ideas from the representation. 
 
 ## Known problems
 
-Measure to know how good is this RecSys.
-
 Can't pickle a dictionary of multiple keras models.
