@@ -1,4 +1,4 @@
-# THK2004.github.io
+# BookRecSys
 BookRecSys_THK
 ## README
 
