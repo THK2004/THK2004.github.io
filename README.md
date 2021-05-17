@@ -8,7 +8,7 @@ Here is the dataset link: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 ## Representation
 
-This is the PowerPoint file i used for representation. It contains the process i built this recommender system at the beginning, also my viewpoint in Machine Learning Pipeline,  $X\to Z\to \hat{y}$ and TEFPA.
+This is the PowerPoint file i used for representation. It contains the process i built this recommender system at the beginning, also my viewpoint in Machine Learning Pipeline.
 
 https://drive.google.com/file/d/1lV2snWVvaTmx7jF53HUlPk-MzhayWpON/view?usp=sharing
 
