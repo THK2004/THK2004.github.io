@@ -34,4 +34,4 @@ After perceiving some problems and receiving new ideas from the representation. 
 
 Measure to know how good is this RecSys.
 
-Can't pickle a dictionary of keras models.
+Can't pickle a dictionary of multiple keras models.
